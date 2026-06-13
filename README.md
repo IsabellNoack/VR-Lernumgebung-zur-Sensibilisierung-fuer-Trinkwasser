@@ -1,4 +1,6 @@
-Dieses Projekt entstand im Kontext der Bachelorarbeit "Entwicklung einer spielbasierten Virtual-Reality-Lernumgebung zur Sensibilisierung für Trinkwasser"
+# Virtual Reality Lernumgebung zur Sensibilisierung für Trinkwasser
+
+Dieses Projekt entstand im Kontext der Bachelorarbeit **"Entwicklung einer spielbasierten Virtual-Reality-Lernumgebung zur Sensibilisierung für Trinkwasser"**
 
 Es wurde ein Prototyp entwickelt zur Sensibilisierung für Trinkwasser unter der Nutzung von VR und Gamification. Konkret wird der Wasserkreilauf auf spielerische Weise erklärt.
 
@@ -9,3 +11,12 @@ Das Projekt entstand unter Verwendung von:
 - XR Interaction Toolkit
 - Blender (für 3D-Modellierung)
 - Visual Studio Code
+
+
+![Screenshot](Screenshots/Screenshot(124).png)
+
+![Screenshot](Screenshots/Screenshot(18).png)
+
+![Screenshot](Screenshots/Screenshot(158).png)
+
+![Screenshot](Screenshots/unity-projekt.png)
